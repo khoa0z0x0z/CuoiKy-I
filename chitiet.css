@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.banner img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.about {
+    line-height: 0.6;
+}
+
+.share a{
+    text-decoration: none;
+}
+.des{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(184, 184, 184);
+}
